@@ -1,4 +1,4 @@
-# Credit Card Customer Churn Risk Analysis
+# Credit Card Churn Risk Analysis
 
 ## Project Overview
 This project analyzes credit card customer behavior to identify factors associated with customer churn and segment customers by churn risk.
